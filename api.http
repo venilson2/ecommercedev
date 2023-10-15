@@ -1,0 +1,10 @@
+@Ecommercedev_HostAddress = http://localhost:5141
+
+
+###
+GET {{Ecommercedev_HostAddress}}/api/clients
+Accept: application/json
+
+###
+GET {{Ecommercedev_HostAddress}}/api/clients/7F76B71F-EB69-4C60-A59D-CB0FD9C739FD
+Accept: application/json
